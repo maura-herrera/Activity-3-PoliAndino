@@ -159,4 +159,5 @@ main{
 
 .container .row .col-60 form .form-group:nth-child(5) button:hover{
     background-color: rgba(17, 160, 204, 0.392);
+    color: black;
 }
